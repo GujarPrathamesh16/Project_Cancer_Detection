@@ -1,0 +1,14 @@
+tf dataset input pipeline
+
+
+filter
+pre processing
+batch
+
+train & split - take & skip
+shuffle
+cache
+
+resize & rescale = for input images (which might not be of standard size)
+
+data augmentation - no need of contrast
